@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id">1:884981527975:android:b69d3e135cb3ab47a9b282</string>
+    <string name="firebase_database_url">https://push-notifications-185cf.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">884981527975</string>
+    <string name="google_api_key">AIzaSyAid2QBbEpETm3hdzRB3yTg_jg32TdfWv8</string>
+    <string name="google_app_id">1:884981527975:android:b69d3e135cb3ab47a9b282</string>
+    <string name="google_crash_reporting_api_key">YOUR_CRASH_REPORTING_API_KEY</string> <!-- Optional -->
+    <string name="project_id">push-notifications-185cf</string>
+</resources>

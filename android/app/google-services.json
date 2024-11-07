@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884981527975",
+    "project_id": "push-notifications-185cf",
+    "storage_bucket": "push-notifications-185cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884981527975:android:b69d3e135cb3ab47a9b282",
+        "android_client_info": {
+          "package_name": "com.example.tiles_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAid2QBbEpETm3hdzRB3yTg_jg32TdfWv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
